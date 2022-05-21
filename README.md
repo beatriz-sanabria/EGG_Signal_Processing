@@ -19,3 +19,9 @@ beta 2, and gamma. Further, all the calculated values ​​are print in the con
 
 Finally, when the program ends, an excel file was created with the patient information and all the data 
 printed in the console.
+
+*** The purpose of this repository is to show the main file and 
+    the results we obtained after running it.
+    
+    Due to the code license, we did not make a continuous versioning 
+    in the repository
