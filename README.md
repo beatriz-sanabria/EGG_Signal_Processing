@@ -18,10 +18,10 @@ and another one with the maps of the spectral power in the frequency bands: delt
 beta 2, and gamma. Further, all the calculated values ​​are print in the console.
 
 Finally, when the program ends, an excel file was created with the patient information and all the data 
-printed in the console.
+printed in the console. The following image is an example of the output.
 
 ![AlejandroMarquezCaballero](https://user-images.githubusercontent.com/60671532/172967677-9705b68a-774a-4e1f-8cac-12b3ac6356fb.png)
-Fig. 1 Example of absolute power calculated in the different electroencephalographic bands per patient.
+Fig. 1 Absolute power calculated in the different electroencephalographic bands per patient.
 
 
 *** The purpose of this repository is to show the main file and 
