@@ -21,7 +21,7 @@ Finally, when the program ends, an excel file was created with the patient infor
 printed in the console.
 
 ![AlejandroMarquezCaballero](https://user-images.githubusercontent.com/60671532/172967677-9705b68a-774a-4e1f-8cac-12b3ac6356fb.png)
-Fig. 1 Absolute power calculated in the different electroencephalographic bands
+Fig. 1 Example of absolute power calculated in the different electroencephalographic bands per patient.
 
 
 *** The purpose of this repository is to show the main file and 
